@@ -30,6 +30,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-2022-07-27-17_42_04.png?token=GHSAT0AAAAAABXBF4LBNSZPKZXYKLAMKXK2YXBGOHA)
 
-![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-edit-a893fe25-1910-41da-b844-84ecf9d23e53-2022-07-27-17_39_54.png?token=GHSAT0AAAAAABXBF4LAIH37NISXD7LYYSCWYXBGSIA)
+![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-2022-07-27-17_42_04.png?token=GHSAT0AAAAAABXBF4LBWHC33CQCUORF7FOWYXBGV4Q)
 
-![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-edit-a893fe25-1910-41da-b844-84ecf9d23e53-2022-07-27-17_39_54.png?token=GHSAT0AAAAAABXBF4LAIH37NISXD7LYYSCWYXBGSIA)
+![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-edit-a893fe25-1910-41da-b844-84ecf9d23e53-2022-07-27-17_41_42.png?token=GHSAT0AAAAAABXBF4LBH52PMJACG4C74OTIYXBGWLA)
