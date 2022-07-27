@@ -28,6 +28,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Architecture 
+1: react router 
+2: context api 
+3: custom hooks
+
 ![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-2022-07-27-17_42_04.png?token=GHSAT0AAAAAABXBF4LBNSZPKZXYKLAMKXK2YXBGOHA)
 
 ![alt text](https://raw.githubusercontent.com/Ahmedrazasiddique/master/master/public/screencapture-localhost-3000-2022-07-27-17_42_04.png?token=GHSAT0AAAAAABXBF4LBWHC33CQCUORF7FOWYXBGV4Q)
